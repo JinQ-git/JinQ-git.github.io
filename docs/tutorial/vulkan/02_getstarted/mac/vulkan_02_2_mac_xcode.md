@@ -130,7 +130,7 @@ Xcode 에서는 프로젝트 루트 디렉토리 (${프로젝트이름}.xcodepro
 
 ![](img/xcode_path_04.png)
 
-[cocoa_bundle_ready]: a
+[cocoa_bundle_ready]: vulkan_02_1_env_mac
 
 ----------
 
