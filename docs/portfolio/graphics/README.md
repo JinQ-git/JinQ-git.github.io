@@ -43,6 +43,8 @@ OpenGL 1.0 프로그램을 Modern OpenGL로 업그레이드
 
 [https://developers.curvsurf.com/WebDemo](https://developers.curvsurf.com/WebDemo)
 
+_click thumbnail to watch youtube video_
+
 [![Web Point View](https://i.ytimg.com/vi/jWrk_zz9xX4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKlNfv3lvQjcnbgYzfDWHU8ofeeQ)](https://youtu.be/jWrk_zz9xX4?si=sqXvq2Yd5u0NVaQi)
 
 [![Web Point View - Initial Version](https://i.ytimg.com/vi/oKlxI2r2oWU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6wFFAPOJmNEcCGvzV1Hf5xJfYpw)](https://youtu.be/oKlxI2r2oWU?si=vrZwAIydJojVboQH)
@@ -68,6 +70,8 @@ OpenGL 1.0 프로그램을 Modern OpenGL로 업그레이드
 * 3D feature point로부터 통계학에 근거한 상대적으로 안정적인 point cloud 데이터 추출 기능 구현; _ARKit, ARCore 한정_
 
 ## Reference
+
+_click thumbnail to watch youtube video_
 
 ### Google Project Tango
 
