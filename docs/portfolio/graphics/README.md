@@ -22,7 +22,7 @@ OpenGL 1.0 프로그램을 Modern OpenGL로 업그레이드
 
 ## Reference
 
-![](img/g/fig01_pointview.png)
+![](img/fig01_pointview.png)
 
 ---
 
