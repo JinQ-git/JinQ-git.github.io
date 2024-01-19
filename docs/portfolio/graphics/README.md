@@ -76,11 +76,11 @@ _click thumbnail to watch youtube video_
 
 ### Google Project Tango
 
-[![Google Project Tango](https://i.ytimg.com/an_webp/8ruiudETvuY/mqdefault_6s.webp?du=3000&sqp=CIiLo60G&rs=AOn4CLD_9ozlA3S3Wtf5kxV_Wy5zjWkClA)](https://www.youtube.com/watch?v=8ruiudETvuY)
+[![Google Project Tango](https://i.ytimg.com/vi/8ruiudETvuY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAr_-ZqGOk5YnCvTbDvwPf6F2bFQw)](https://www.youtube.com/watch?v=8ruiudETvuY)
 
 ### Intel RealSense
 
-[![RealSense](https://i.ytimg.com/an_webp/HGwojt6Gqrc/mqdefault_6s.webp?du=3000&sqp=CKedo60G&rs=AOn4CLCn2Du5s0wdxeWxgOwbnsQvjWXUHQ)](https://www.youtube.com/watch?v=HGwojt6Gqrc)
+[![RealSense](https://i.ytimg.com/vi/HGwojt6Gqrc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IDIoITAP&rs=AOn4CLCSWoWFRuHiQsby_FxhAs1jk7BzhA)](https://www.youtube.com/watch?v=HGwojt6Gqrc)
 
 ### Google ARCore
 
@@ -94,20 +94,20 @@ _click thumbnail to watch youtube video_
 
 ### Apple ARKit with LiDAR
 
-[![ARKit LiDAR](https://i.ytimg.com/an_webp/Pq55xNtvbzQ/mqdefault_6s.webp?du=3000&sqp=CNCWo60G&rs=AOn4CLDBKmOVlOR7gLbXhhTTz_k7Mq5IxQ)](https://www.youtube.com/watch?v=Pq55xNtvbzQ)
+[![ARKit LiDAR](https://i.ytimg.com/vi/Pq55xNtvbzQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCrlcfgR-bQrig8CKVkRvkiyrLN3g)](https://www.youtube.com/watch?v=Pq55xNtvbzQ)
 
-[![ARKit LiDAR AR](https://i.ytimg.com/an_webp/eSGY49ND6dY/mqdefault_6s.webp?du=3000&sqp=CJqio60G&rs=AOn4CLATxolIMIweyCDBuiBufMuP9DY7yg)](https://www.youtube.com/watch?v=eSGY49ND6dY)
+[![ARKit LiDAR AR](https://i.ytimg.com/vi/eSGY49ND6dY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfzz5yqFZLqPZHDL4TH581KBNGjw)](https://www.youtube.com/watch?v=eSGY49ND6dY)
 
 
 ### HoloLens 1 - with Spatial Mesh Vertices
 
-[![HoloLens](https://i.ytimg.com/an_webp/4RYMR8i8suU/mqdefault_6s.webp?du=3000&sqp=CMejo60G&rs=AOn4CLBFkVWMvbjORil7uGnMAG6llAMZnQ)](https://www.youtube.com/watch?v=4RYMR8i8suU)
+[![HoloLens](https://i.ytimg.com/vi/4RYMR8i8suU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwbtv1OPj2yfkv3vtTbUiGOIDrKA)](https://www.youtube.com/watch?v=4RYMR8i8suU)
 
 [![HoloLens AR](https://i.ytimg.com/vi/_Cao7bVZAMg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPqqEdMOoLoKse9yXWkcJRLZWOwA)](https://www.youtube.com/watch?v=_Cao7bVZAMg)
 
 ### HoloLens 2 - with Raw Depth Stream
 
-[![HoloLens2](https://i.ytimg.com/an_webp/IDrfxeHuZVo/mqdefault_6s.webp?du=3000&sqp=CPqmo60G&rs=AOn4CLB_dNf23Dmi66VGdFiB2Dum5bGGxw)](https://www.youtube.com/watch?v=IDrfxeHuZVo)
+[![HoloLens2](https://i.ytimg.com/vi/IDrfxeHuZVo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfpaXDuNUkJ8ql8Fjv2Eo98mobEw)](https://www.youtube.com/watch?v=IDrfxeHuZVo)
 
 ---
 
