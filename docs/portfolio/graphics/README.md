@@ -5,6 +5,7 @@
 1. [Point View](#point-view)
 1. [Web Point View](#web-point-view)
 1. [Mobile 데모](#mobile-데모)
+1. [과제: 차세대 모바일 3D UI Framework 및 Widget 개발](#인크로스-itsoc-과제:-차세대-모바일-3d-ui-framework-및-widget-개발)
 
 ---
 
@@ -108,3 +109,79 @@ _click thumbnail to watch youtube video_
 
 [![HoloLens2](https://i.ytimg.com/an_webp/IDrfxeHuZVo/mqdefault_6s.webp?du=3000&sqp=CPqmo60G&rs=AOn4CLB_dNf23Dmi66VGdFiB2Dum5bGGxw)](https://www.youtube.com/watch?v=IDrfxeHuZVo)
 
+---
+
+# 인크로스 ITSOC 과제: 차세대 모바일 3D UI Framework 및 Widget 개발
+
+UX 기획안에 맞추어 **인크로스**에서 제공한 3D-asset을 활용, 홈 UI 데모 (1차년도), 앱 및 Widget 데모 (2, 3차년도) 프로그램 작성
+
+* Android / Windows 향 OpenGL ES 컨텍스트 위에 개발
+* 3D-Asset 엔진은 제공; File Load, Animation Update, Draw Call
+
+## 주요 업무
+
+- 홈 UI 데모를 위한 Framework 설계 및 구현
+   * UI Rendering 엔진 설계 및 구현; Scene Graph Node 응용
+   * Android / Windows 용 Gesture Event Handler 설계 및 구현; Tap(Click), Double tap, Long tap, Flick, Slide, Pinch in/out
+   * 홈 UI 기본 기능 구현; 앱(아이콘)/위젯의 추가, 편집 및 삭제
+- 3D UX 앱 및 Widget 데모 구현; 시계 위젯, 메모 앱 / 위젯, 캘린더 앱 / 위젯, 갤러리 앱 / 위젯
+
+## Reference
+
+### 홈 UI 데모
+
+#### 홈 UI 시나리오 1
+
+| | |
+|:---:|:---:|
+| ![](img/itsoc/s01_fig01.png) | ![](img/itsoc/s01_fig03.png) |
+| ![](img/itsoc/s01_fig02.png) | ![](img/itsoc/s01_fig04.png) |
+| | |
+
+#### 홈 UI 시나리오 2
+
+| | |
+|:---:|:---:|
+| ![](img/itsoc/s02_fig01.png) | ![](img/itsoc/s02_fig04.png) |
+| ![](img/itsoc/s02_fig02.png) | ![](img/itsoc/s02_fig05.png) |
+| ![](img/itsoc/s02_fig03.png) | ![](img/itsoc/s02_fig06.png) |
+| | |
+
+### 앱 / 위젯 데모
+
+#### 메모 앱
+
+![](img/itsoc/memo_app_fig01.png)
+
+#### 메모 위젯
+
+![](img/itsoc/memo_widget_fig01.png)
+
+#### 캘린더 앱
+
+| | |
+|:---:|:---:|
+| ![](img/itsoc/calander_app_fig01.png) | ![](img/itsoc/calander_app_fig02.png) |
+| ![](img/itsoc/calander_app_fig03.png) | ![](img/itsoc/calander_app_fig04.png) |
+| ![](img/itsoc/calander_app_fig05.png) | ![](img/itsoc/calander_app_fig06.png) |
+| | |
+
+#### 캘릭더 위젯
+
+![](img/itsoc/calander_widget_fig01.png)
+
+#### 갤러리 앱
+
+| | |
+|:---:|:---:|
+| ![](img/itsoc/gallary_app_fig01.png) | ![](img/itsoc/gallary_app_fig02.png) |
+| | |
+
+#### 갤러리 위젯
+
+| | |
+|:-:|:-:|
+| ![](img/itsoc/gallary_widget_fig01.png) | ![](img/itsoc/gallary_widget_fig02.png) |
+| | |
+
+---
