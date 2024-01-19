@@ -5,7 +5,7 @@
 1. [Point View](#point-view)
 1. [Web Point View](#web-point-view)
 1. [Mobile 데모](#mobile-데모)
-1. [과제: 차세대 모바일 3D UI Framework 및 Widget 개발](#인크로스-itsoc-과제:-차세대-모바일-3d-ui-framework-및-widget-개발)
+1. [과제: 차세대 모바일 3D UI Framework 및 Widget 개발](#인크로스-itsoc-과제-차세대-모바일-3d-ui-framework-및-widget-개발)
 
 ---
 
